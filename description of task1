@@ -1,0 +1,10 @@
+I want to Thank you for these interesting task. I have learned many things along the way. 
+
+this code can perform the procedure succesfully but it has the following limitations: 
+
+1 - It does not know wether the link is in parantheses or not. I have tried to solve this issue but it is not easy to access the text 
+and manipulate it under a particular tab. I am sure it can be done but there is something I am missing. 
+
+2 - the code access only the first word of each paragraph. The problem lies in the accsess of the links in the <p> tab. 
+
+Those limitations are python-language related rather than particular algorithm related.
